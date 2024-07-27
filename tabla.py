@@ -42,7 +42,7 @@ orders = {
 
 number_of_people_item_split_between = {
     "Paneer Biryani": 2,
-    "Raita": 4,
+    "Raita": 2,
     "Kadai Chicken": 3,
     "Chilli Garlic Naan": 1,
     "Beer": 2,
